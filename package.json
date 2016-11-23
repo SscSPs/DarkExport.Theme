@@ -8,13 +8,12 @@
     "license": "MIT",
     "theme": {
         "file": "theme.less",
-        "dark": True,
+        "dark": true,
         "addModeClass": true
     },
     "keywords": [
         "Export",
         "Dark",
         "theme",
-        "DarkColors"
     ]
 }
