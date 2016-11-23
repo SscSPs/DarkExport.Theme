@@ -1,0 +1,20 @@
+{
+    "name": "DarkExport.Theme",
+    "title": "DarkExport Theme",
+    "description": "A brackets theme Designed to export codes in dark colors",
+    "homepage": "https://github.com/SscSPs/DarkExport.Theme",
+    "version": "1.0.0",
+    "author": "Sahil Soni <SscSPs@gmail.com>",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": True,
+        "addModeClass": true
+    },
+    "keywords": [
+        "Export",
+        "Dark",
+        "theme",
+        "DarkColors"
+    ]
+}
